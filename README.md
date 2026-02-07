@@ -1,6 +1,7 @@
 # 📊 Verificare Automată CUI-uri ANAF (Excel VBA)
 
 Acest instrument profesional construit în Excel automatizează procesul de verificare a statusului fiscal pentru liste de companii (CUI-uri). Soluția interoghează direct API-ul oficial al ANAF (v9), oferind o alternativă rapidă și eficientă la verificările manuale.
+Se pot crea liste custom de cuie, si poate folosi functia isValidCUI, pentru pastrarea celor corecte, deci putem avea CUIE și fără să știm firma.
 
 ## 🚀 Funcționalități Principale
 
